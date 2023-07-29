@@ -706,6 +706,10 @@ footer .links{
         padding: 0;
         width: 80%;
     }
+    .call-to-action{
+      margin-top: 6rem;
+      padding:3rem;
+    }
     .call-to-action form{
         flex-direction: column;
         align-items: unset;
