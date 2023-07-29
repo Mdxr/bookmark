@@ -29,8 +29,8 @@ This is a solution to the [Bookmark landing page challenge on Frontend Mentor](h
 
 ### Links
 
-- Solution URL: [](https://github.com/Mdxr/bookmark)
-- Live Site URL: [](https://mdxr.github.io/bookmark/)
+- Solution URL: [Solution](https://github.com/Mdxr/bookmark)
+- Live Site URL: [Live Demo](https://mdxr.github.io/bookmark/)
 
 ## My process
   
